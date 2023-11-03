@@ -44,7 +44,7 @@ class Settings : PersistentStateComponent<Settings> {
      * 主要语言
      */
     var primaryLanguage: Lang? = null
-
+    var primaryLanguageq: Lang? = null
     /**
      * 有道翻译选项
      */
